@@ -1,6 +1,11 @@
 # study_planner
+A new Flutter project done by Group 1:
+1- 26669/2024
+2- 26932/2024
+3- 27844/2024
+4- 27701/2024
+5- 27224/2024
 
-A new Flutter project.
 
 ## Getting Started
 
